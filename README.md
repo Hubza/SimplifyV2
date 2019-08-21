@@ -20,7 +20,7 @@
 ### On our Twitch we'll livestream special events, like TriWeek, and sometimes we'll make skins while chatting in live!
 ### 
 ### [![issues](https://i.imgur.com/MSJVZGH.png "Issues Link")](https://github.com/eclipsedteam/Simplify/issues)
-### Found a bug? Report it by opening an issue! Make sure to inculde screenshots and to describe the items affected, as well as your screen resolution and aspect ratio.
+### Found a bug? Report it by opening an issue! Make sure to include screenshots and to describe the items affected, as well as your screen resolution and aspect ratio.
 ### 
 ### 
 ### [![pulls](https://i.imgur.com/9jlDy76.png "Pulls Link")](https://github.com/eclipsedteam/Simplify/pulls)
