@@ -1,5 +1,4 @@
-![alt text](https://i.imgur.com/io1ZPVG.png "Simplify Logo")
-![about](https://i.imgur.com/P3RVo6I.png "about")
+SIMPLIFY - A simple osu! skin
 
 # About
 
@@ -7,15 +6,11 @@
 ### 
 ### 
 
-### [![download](https://i.imgur.com/OksciCc.png "Download")](https://github.com/eclipsedteam/Simplify/releases/latest/download/Dashed.osk)
-
 # [Download](https://github.com/eclipsedteam/Simplify/releases/latest/download/Simplify.osk)
 
 ## Wanna try the latest stable release? Click the image above and import the .osk by dragging it into your osu! window!
 ### 
 ### 
-
-### [![website](https://i.imgur.com/pOjvtxb.png "Website Link")](https://eclipsed.hub2hub.xyz)
 
 # [Website](https://eclipsed.hub2hub.xyz)
 
@@ -23,15 +18,11 @@
 ### 
 ### 
 
-### [![discord](https://i.imgur.com/TZir0Cx.png "Discord Link")](https://discord.gg/kUr4Qcv)
-
 # [Discord](https://discord.gg/kUr4Qcv)
 
 ## Come chat with us and other people in our Discord server! Remember to read rules before chatting.
 ### 
 ### 
-
-### [![twitter](https://i.imgur.com/1Z3T8f9.png "Twitter Link")](https://twitter.com/eclipsed_team)
 
 # [Twitter](https://twitter.com/eclipsed_team)
 
@@ -39,23 +30,17 @@
 ### 
 ### 
 
-### [![twitch](https://i.imgur.com/ph7tPbH.png "Twitch Link")](https://www.twitch.tv/eclipsedteam)
-
 # [Twitch](https://www.twitch.tv/eclipsedteam)
 
 ## On our Twitch we'll livestream special events, like TriWeek, and sometimes we'll make skins while chatting in live! 
 ### 
 ### 
 
-### [![issues](https://i.imgur.com/MSJVZGH.png "Issues Link")](https://github.com/eclipsedteam/Simplify/issues)
-
 # [Issues](https://github.com/eclipsedteam/Simplify/issues)
 
 ## Found a bug? Report it by opening an issue! Make sure to include screenshots and to describe the items affected, as well as your screen resolution and aspect ratio.
 ### 
 ### 
-
-### [![pulls](https://i.imgur.com/9jlDy76.png "Pulls Link")](https://github.com/eclipsedteam/Simplify/pulls))
 
 # [Pulls](https://github.com/eclipsedteam/Simplify/pulls)
 
