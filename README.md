@@ -1,4 +1,4 @@
-#SIMPLIFY - A simple osu! skin
+# SIMPLIFY - A simple osu! skin
 
 ## About
 
